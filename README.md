@@ -2,10 +2,11 @@
 
 An external cheat for **AssaultCube** featuring ESP, aimbot, no recoil, godmode, and more — built with **ImGui** and **DirectX 9** in C++. Designed for learning and practical reverse engineering.
 
-> [Article](https://adminions.ca/books/articles/page/part-1-from-reverse-engineering-to-cheat-development-external-game-hacks-with-assaultcube)
+> Article: [Article](https://adminions.ca/books/articles/page/part-1-from-reverse-engineering-to-cheat-development-external-game-hacks-with-assaultcube)
 
+> Youtube Demo: [![External Cheat Demo](https://img.youtube.com/vi/cWaQgsfLquk/0.jpg)](https://youtu.be/cWaQgsfLquk)
 
-
+> Screenshot ![ScreenshotDemo](screenshot.png)
 ---
 
 ## Project Structure
@@ -76,13 +77,6 @@ This repository is cleanly organized by functionality for maintainability and le
 3. Use the `Insert` key to open the menu
 4. Hold **Right Mouse Button** to activate aimbot (if enabled)
 5. Use checkboxes in the menu to toggle ESP, recoil, etc.
-
----
-
-## Screenshot & Demo
-
-![ScreenshotDemo](screenshot.png)
-![Demo](https://youtu.be/cWaQgsfLquk)
 
 ---
 
