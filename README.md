@@ -2,7 +2,9 @@
 
 An external cheat for **AssaultCube** featuring ESP, aimbot, no recoil, godmode, and more — built with **ImGui** and **DirectX 9** in C++. Designed for learning and practical reverse engineering.
 
-> Author: [BobBuilder / Raphael](https://adminions.ca/books/the-team/page/bobbuilder)
+> [Article](https://adminions.ca/books/articles/page/part-1-from-reverse-engineering-to-cheat-development-external-game-hacks-with-assaultcube)
+
+
 
 ---
 
